@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "cover": "../src/assets/images/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know: The Best Way To Learn Modern JavaScript",
+        "author_img": "../src/assets/images/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "../src/assets/images/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "../src/assets/images/boy2.png",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "../src/assets/images/3.png",
+        "title": "Component lifecycle in React-Class component vs Functional component",
+        "author_img": "../src/assets/images/boy3.png",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "../src/assets/images/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "../src/assets/images/boy4.png",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    }
+]
